@@ -1,0 +1,55 @@
+{
+  "title": "Você seria um anjo ou demônio?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual poder sobrenatural você escolheria?",
+      "options": [
+        {"id": 1, "name": "Curar", "alias": "A"},
+        {"id": 2, "name": "Influenciar mentes", "alias": "B"},
+        {"id": 3, "name": "Controlar elementos naturais", "alias": "A"},
+        {"id": 4, "name": "Criar ilusões", "alias": "B"},
+        {"id": 5, "name": "Manipular sombras", "alias": "A"}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Quem você ajudaria primeiro?",
+      "options": [
+        {"id": 1, "name": "Pessoas boas", "alias": "A"},
+        {"id": 2, "name": "Pessoas más", "alias": "B"},
+        {"id": 3, "name": "Não saberia escolher", "alias": "B"}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual é a sua maior preocupação ao confrontar outro ser sobrenatural?",
+      "options": [
+        {"id": 1, "name": "Evitar a corrupção", "alias": "B"},
+        {"id": 2, "name": "Derrotar o inimigo com poderes malignos", "alias": "A"},
+        {"id": 3, "name": "Manter minha integridade", "alias": "A"},
+        {"id": 4, "name": "Proteger inocentes", "alias": "B"}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual é o seu principal objetivo sobrenatural?",
+      "options": [
+        {"id": 1, "name": "Promover a bondade", "alias": "A"},
+        {"id": 2, "name": "Alcançar o poder supremo", "alias": "B"}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual é o seu título sobrenatural?",
+      "options": [
+        {"id": 1, "name": "O Benevolente", "alias": "A"},
+        {"id": 2, "name": "Senhor das Sombras", "alias": "B"}
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você muito provavelmente seria um anjo benevolente!",
+    "B": "Você muito provavelmente seria um demônio poderoso!"
+  }
+}
